@@ -1,4 +1,3 @@
-# gitHub-desk
  # Snake Game Code Explanation
 
 ## Overview
