@@ -1,4 +1,4 @@
 #Creating and publishing my first advanced codes and projects on github
-    '''##Currently Published: 
+	##Currently Published: 
       - Snake Game (Python)
-      - Tic-Tac-Toe (C++)'''
+      - Tic-Tac-Toe (C++)
